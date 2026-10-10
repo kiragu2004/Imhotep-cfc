@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1+cpu
+torch==2.9.0+cpu
 ncps
 fastapi
 uvicorn[standard]
